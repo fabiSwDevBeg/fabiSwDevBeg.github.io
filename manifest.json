@@ -1,6 +1,6 @@
 {
-    "name": "app_esame_martina",
-    "short_name": "app_esame_martina",
+    "name": "app_esame_gen",
+    "short_name": "app_esame_gen",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
