@@ -61,5 +61,14 @@
     "type": "link",
     "url": "https://www.wired.it/article/elezioni-usa-2024-fake-news-clamorose-harris-trump/",
     "createdAt": "2025-05-28T19:16:11.621Z"
+  },
+  {
+    "id": "1748460034302",
+    "folderId": "1748439037507",
+    "title": "Il Fatto Quotidiano",
+    "description": "Elezioni Usa truccate, bambini castrati e fentanyl legalizzato: ecco la realtà parallela creata da Trump con le fake news",
+    "type": "pdf",
+    "url": "https://raw.githubusercontent.com/fabiSwDevBeg/fabiSwDevBeg.github.io/main/storage/pdfs/1748439037507/disinfo-nov-fattoquotidiano.pdf",
+    "createdAt": "2025-05-28T19:20:34.302Z"
   }
 ]
