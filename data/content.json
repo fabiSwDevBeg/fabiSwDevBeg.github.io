@@ -90,12 +90,12 @@
     "createdAt": "2025-05-29T10:43:31.142Z"
   },
   {
-    "id": "1748516207686",
+    "id": "1748516323561",
     "folderId": "1748439037507",
-    "title": "internazionale",
-    "description": "https://www.internazionale.it/notizie/alessio-marchionna/2024/09/09/stati-decisivi-elezioni-america",
-    "type": "link",
-    "url": "https://www.internazionale.it/notizie/alessio-marchionna/2024/09/09/stati-decisivi-elezioni-america",
-    "createdAt": "2025-05-29T10:56:47.686Z"
+    "title": "new yorker",
+    "description": "donald trump fake news new yorker",
+    "type": "pdf",
+    "url": "https://raw.githubusercontent.com/fabiSwDevBeg/fabiSwDevBeg.github.io/main/storage/pdfs/1748439037507/Donald Trump’s “Fake News” Tactics _ The New Yorker (1).PDF",
+    "createdAt": "2025-05-29T10:58:43.561Z"
   }
 ]
